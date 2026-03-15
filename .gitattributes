@@ -1,0 +1,10 @@
+# Front-end
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+
+# Back-end
+*.php linguist-language=PHP
+
+# Baza danych
+*.sql linguist-language=SQL
