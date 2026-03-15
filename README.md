@@ -1,6 +1,6 @@
-Dziennik Elektroniczny
+**Dziennik Elektroniczny**
 
-Projekt **Dziennik Elektroniczny** to aplikacja webowa umożliwiająca prowadzenie elektronicznego dziennika dla uczniów i nauczycieli. Aplikacja pozwala na zarządzanie ocenami, obecnościami oraz notatkami w prostym i intuicyjnym interfejsie.
+Projekt Dziennik Elektroniczny to aplikacja webowa umożliwiająca prowadzenie elektronicznego dziennika dla uczniów i nauczycieli. Aplikacja pozwala na zarządzanie ocenami, obecnościami oraz notatkami w prostym i intuicyjnym interfejsie.
 
 Technologie
 Projekt został stworzony z użyciem:
